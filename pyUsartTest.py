@@ -36,7 +36,7 @@ from pymodbus.framer import FramerType
 # -----------------------------------------------------------------------------
 # Modbus configuration
 # -----------------------------------------------------------------------------
-DEFAULT_PORT = "COM14"
+DEFAULT_PORT = "COM8"
 BAUDRATE = 115200
 BYTESIZE = 8
 PARITY = "N"
